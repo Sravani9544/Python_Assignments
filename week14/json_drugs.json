@@ -1,0 +1,40 @@
+[
+{"STAGE":"Stage 1"
+{"ER":"ER Positive","PR":"PR Positive","HER2":"HER2-Negative"
+{"DRUG":"tamoxifen or an aromatase inhibitor","CHEMOTHERAPY":"adjuvant chemotherapy","RESIDUAL CANCER AFTER SURGERY DRUGS":"ado-trastuzumab emtansine"}
+},
+{"ER":"ER Negative","PR":"ER Negative"
+{"HER2":"HER2-Positive","DRUG":"trastuzumab (with or without pertuzumab)","CHEMOTHERAPY":"neoadjuvant (before surgery) chemotherapy","RESIDUAL CANCER AFTER SURGERY DRUGS":"None"}
+}
+},
+{"STAGE":"Stage 2"
+{"ER":"ER Positive","PR":"PR Positive","HER2":"HER2-Negative"
+{"DRUG":"tamoxifen, an aromatase inhibitor (AI), abemaciclib","CHEMOTHERAPY":"started before surgery, given after surgery as well","RESIDUAL CANCER AFTER SURGERY DRUGS":"olaparib"}
+},
+{"ER":"ER Negative","PR":"PR Negative","HER2":"HER2-Positive"
+{"DRUG":"trastuzumab (with or without pertuzumab)","CHEMOTHERAPY":"adjuvant (after surgery) chemotherapy","RESIDUAL CANCER AFTER SURGERY DRUGS":"None"}
+}
+},
+{"STAGE":"Stage 3"
+{"ER":"ER Negative","PR":"PR Negative","HER2":"HER2-Positive"
+{"DRUG":"trastuzumab, pertuzumab (Perjeta),","CHEMOTHERAPY":"neoadjuvant (before surgery)","RESIDUAL CANCER AFTER SURGERY DRUGS":"None"}
+},
+{"ER":"ER Negative","PR":"PR Negative","HER2":"HER2-Positive"
+{"DRUG":"trastuzumab (with or without pertuzumab)","CHEMOTHERAPY":"adjuvant (after surgery) chemotherapy","RESIDUAL CANCER AFTER SURGERY DRUGS":"ado-trastuzumab emtansine, neratinib"}
+},
+{"ER":"ER Positive","PR":"PR Positive","HER2":"HER2-Negative"
+{"DRUG":"abemaciclib, tamoxifen or an AI","CHEMOTHERAPY":"adjuvant (after surgery) chemotherapy","RESIDUAL CANCER AFTER SURGERY DRUGS":"olaparib"}
+}
+},
+{"STAGE":"Stage 4"
+{"ER":"ER Positive","PR":"PR Positive","HER2":"HER2-Negative"
+{"DRUG":"amoxifen or an aromatase inhibitor,  CDK4/6 inhibitor, everolimus, or a PI3K inhibitor","CHEMOTHERAPY":"neoadjuvant (before surgery)","RESIDUAL CANCER AFTER SURGERY DRUGS":"olaparib or talazoparib with a BRCA gene mutation, Alpelisib and fulvestrant  with a PIK3CA gene mutation"}
+},
+{"ER":"ER Negative","PR":"PR Negative","HER2":"HER2-Positive"
+{"DRUG":"trastuzumab (Herceptin), pertuzumab (Perjeta)","CHEMOTHERAPY":"with Chemotherapy","RESIDUAL CANCER AFTER SURGERY DRUGS":"None"}
+},
+{"ER":"ER Negative","PR":"PR Negative","HER2":"HER2-Negative"
+{"DRUG":"olaparib or talazoparib with BRCA mutation, pembrolizumab for microsatellite instability (MSI) or changes in any of the mismatch repair (MMR) genes, acituzumab govitecan (Trodelvy) without any specific gene or protein changes","CHEMOTHERAPY":"with chemotherapy","RESIDUAL CANCER AFTER SURGERY DRUGS":"None"}
+}
+}
+]
